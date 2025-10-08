@@ -1,2 +1,2 @@
 # gwildrick
-mijn eerste git repository, python in 
+mijn eerste git repository, python in PyCharm
